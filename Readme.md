@@ -27,7 +27,7 @@ Each file builds on core concepts with clear, simple code examples.
 1. Clone the repo:
    ```bash
    git clone https://github.com/harshdwivediiiii/learning-python.git
-   cd python-learning-journey
+   cd python-learning-python
 
 
 ## 🚀 Getting Started
